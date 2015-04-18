@@ -2,9 +2,9 @@
  * Created by roger on 4/18/15.
  */
 
-var commandQueue = require('lib/commandQueue'),
-    bluegigaCommand = require('lib/bluegigaCommand'),
-    careU1AtCommand = require('lib/careU1AtCommand');
+var commandQueue = require('./lib/commandQueue'),
+    bluegigaCommand = require('./lib/bluegigaCommand'),
+    careU1AtCommand = require('./lib/careU1AtCommand');
 
 exports = {
     commandQueue: commandQueue.commandQueue,
