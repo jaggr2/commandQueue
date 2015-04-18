@@ -6,7 +6,7 @@ var commandQueue = require('./lib/commandQueue'),
     bluegigaCommand = require('./lib/bluegigaCommand'),
     careU1AtCommand = require('./lib/careU1AtCommand');
 
-exports = {
+module.exports = exports = {
     commandQueue: commandQueue.commandQueue,
     processReturnCodes: commandQueue.processReturnCodes,
     abstractCommand: commandQueue.abstractCommand,
