@@ -1,5 +1,5 @@
 {
-  "name": "commandQueue",
+  "name": "commandqueue",
   "version": "0.0.1",
   "description": "command Queue for synchronising commands and their responses. Asynchron messages are also supported.",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git://github.com/jaggr2/commandQueue.git"
   },
   "keywords": [
-    "commandQueue",
+    "commandqueue",
     "queue",
     "synchronise"
   ],
