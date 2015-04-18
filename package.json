@@ -1,6 +1,6 @@
 {
   "name": "commandqueue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "command Queue for synchronising commands and their responses. Asynchron messages are also supported.",
   "main": "index.js",
   "scripts": {
